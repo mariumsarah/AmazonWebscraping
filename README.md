@@ -8,16 +8,13 @@ Webscraping using beautifulsoup or selenium can be challenging on Amazon with fr
 
 <img src="https://github.com/mariumsarah/AmazonWebscraping/blob/main/docs/categories.png" height="600" width="auto" alt="image-detection icon"/>
 
-** ###
 
 <br/>
 
 ## Installation
-Make sure you have [Python 3](https://www.python.org/downloads/) installed, then sign up on [Scrapy](https://www.scraperapi.com/blog/how-to-scrape-amazon-product-data/) to recieve an API Key. In a month, you are allowed 5000 requests.
+Make sure you have [Python 3](https://www.python.org/downloads/) installed, then sign up on [Scrapy](https://www.scraperapi.com/blog/how-to-scrape-amazon-product-data/) to recieve an API Key. In a month, you are allowed 5000 requests. Replace the ``API_KEY`` value in amazon.py to the API key you recieve once logged in.
 
-Make sure to change the ``API_KEY`` value in amazon.py
-
-Make sure to install ``scrapy`` to be able to start using scrapy.
+Install ``scrapy`` to be able to start using scrapy.
 ```Python
 pip install scrapy
 ```
