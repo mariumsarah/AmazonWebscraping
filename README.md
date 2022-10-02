@@ -4,9 +4,9 @@ The focus of this project is to scrape product level information from Amazon Gro
 <br/>
 
 Webscraping using beautifulsoup or selenium can be challenging on Amazon with frequent bot questions that can block access after a 10-20 requests to Amazon. ScraperAPI makes it easy to webscrape using their API.
-### **Click here to learn more about how to use scrapy [click here](https://www.scraperapi.com/blog/how-to-scrape-amazon-product-data/)
+### Click here to learn more about how to use scrapy [click here](https://www.scraperapi.com/blog/how-to-scrape-amazon-product-data/)
 
-<img src="https://github.com/mariumsarah/AmazonWebscraping/blob/main/docs/categories.png" height="600" height="auto" alt="image-detection icon"/>
+<img src="https://github.com/mariumsarah/AmazonWebscraping/blob/main/docs/categories.png" height="600" width="auto" alt="image-detection icon"/>
 
 ** ###
 
